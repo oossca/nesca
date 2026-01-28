@@ -1,0 +1,18 @@
+# Example targets file for Nesca
+# Lines starting with # are comments
+# Empty lines are ignored
+
+# Single IPs
+192.168.1.1
+192.168.1.10
+192.168.1.100
+
+# IP ranges in CIDR notation
+192.168.2.0/24
+10.0.0.1
+
+# Special addresses
+127.0.0.1
+
+# You can add more targets here
+# Each line should contain one target
